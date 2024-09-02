@@ -71,9 +71,9 @@ understanding of rover positioning
 - Collaborated with developers to build a GUI JavaFx app following Model-View-Controller architecture based on Umple UML diagrams, using Gherkin, Cucumber, JUnit, and Scene-Builder software.
 
 ### [**Chrome Extension**](https://github.com/Nicolas-Saade/Collab-Extension)
-*A chrome extension for monitoring and connecting users to GPU runtime on google colab.*  
+*A chrome extension for monitoring and connecting users to a TPU runtime on google colab.*  
 **Tech Stack:** JavaScript, Server-side, CORS, Google Cloud Functions.  
-- Developed a Chrome extension that automates checking GPU availability on Google Colab, it interacts with the
+- Developed a Chrome extension that automates checking TPU availability on Google Colab, it interacts with the
 website DOM to connect users to a runtime, and notifies them by email using Google Cloud serverless
 functions and the MailerSend API, using Google Developer Tools.
 
@@ -100,7 +100,7 @@ Builder, PyTorch, Tensorflow, PostgreSQL, NodeJS, JUnit, Gradle, JavaFX, JUnit, 
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 - **Email:** [nicolasnsaade@gmail.com](mailto:nicolasnsaade@gmail.com)
 - **Mobile:**  [+1 (438) 528-4279](tel:+14385284279)
