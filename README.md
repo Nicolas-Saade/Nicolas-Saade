@@ -70,7 +70,7 @@ understanding of rover positioning
 **Tech Stack:** Java, FXML, JavaFx, Umple.
 - Collaborated with developers to build a GUI JavaFx app following Model-View-Controller architecture based on Umple UML diagrams, using Gherkin, Cucumber, JUnit, and Scene-Builder software.
 
-### [**Chrome Extension**](https://github.com/Nicolas-Saade/Collab-Extension)
+### [**Chrome Extension**](https://github.com/Nicolas-Saade/Colab_Chrome_Extension)
 *A chrome extension for monitoring and connecting users to a TPU runtime on google colab.*  
 **Tech Stack:** JavaScript, Server-side, CORS, Google Cloud Functions.  
 - Developed a Chrome extension that automates checking TPU availability on Google Colab, it interacts with the
