@@ -19,7 +19,7 @@ Builder, PyTorch, Tensorflow, scikit-learn, pandas, PostgreSQL, NodeJS, JUnit, G
 ## Education
 
 **Bachelor of Software Engineering** | McGill University  
-Cumulative GPA: 3.82/4.0
+Cumulative GPA: 3.81/4.0
 
 **Relevant Courses:**  
 - Intro. to Software Engineering 
