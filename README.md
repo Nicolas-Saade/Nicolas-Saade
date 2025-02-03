@@ -8,7 +8,7 @@ I am a software engineering student at McGill, passionate about programming, wit
 
 ## Technical Skills
 
-- **Programming Languages:** Python, C, Java, C#, bash, HTML, CSS, SQL, JavaScript, FXML, VHDL/FPGAs, Assembly.
+- **Programming Languages:** Python, C, Java, C#, bash, HTML, CSS, SQL, JavaScript, TypeScript, FXML, VHDL/FPGAs, Assembly.
 - **Frameworks & Tools:** .NET, Django, FASTAPI, Unittest, Pytest, Docker, PostgreSQL, Vue.js, Postman, Cucumber, Scene Builder, PyTorch, Tensorflow, Git, JUnit, Gradle, JavaFX, JUnit, JWT, Linux. pgAdmin, ARM CPUs/logisim.
 - **Other Skills:** Authentication/Authorization, BDD, TDD, Containerization, Migration.
 - **Languages:** English (Fluent), French (Fluent), Arabic (Fluent).
