@@ -17,8 +17,8 @@ I am a software engineering student at McGill, passionate about programming, wit
 ## Projects
 
 ### [**LinkMySocials**](https://github.com/Nicolas-Saade/ttmigtool)
-* Keep your Hard-Earned TikTok Favorites and Preferences Safe *
-- The app was built using: Python, Django, React-native, JavaScript and TypeScript. The Website is hosted using AWS services (S3, EC2), check it out @Link-My-Socials.com .
+*Keep your Hard-Earned TikTok Favorites and Preferences Safe*
+- The app was built using: Python, Django, React-native, JavaScript and TypeScript. The Website is hosted using AWS services (S3, EC2), check it out [**link-my-socials.com**](https://link-my-socials.com/) .
 
 ### [**GameShop**](https://github.com/Nicolas-Saade/Game-Shop)
 *A Full-Stack application to manage an online store, browse, and buy products*
