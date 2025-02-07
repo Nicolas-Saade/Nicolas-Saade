@@ -16,6 +16,10 @@ I am a software engineering student at McGill, passionate about programming, wit
 
 ## Projects
 
+### [**LinkMySocials**](https://github.com/Nicolas-Saade/ttmigtool)
+* Keep your Hard-Earned TikTok Favorites and Preferences Safe *
+- The app was built using: Python, Django, React-native, JavaScript and TypeScript. The Website is hosted using AWS services (S3, EC2), check it out @Link-My-Socials.com .
+
 ### [**GameShop**](https://github.com/Nicolas-Saade/Game-Shop)
 *A Full-Stack application to manage an online store, browse, and buy products*
 - The app was built using, the Model-View-Controller architecture, using Spring Boot, Vue.js, JavaScript, and PostgreSQL. The web-app is containerized through docker, to be hosted online using Render web services (please click [**here**](https://github.com/Nicolas-Saade/Game-Shop) for instructions on how to try out the website!) .
