@@ -11,9 +11,9 @@ I am a software engineering student at McGill, passionate about programming, wit
 - **Programming Languages:** Python, Java, Javascript/Typescript, C#, HTML/CSS, C, bash, SQL, Terraform, Assembly, OCaml.
 - **Frameworks & Tools:** AWS, Apache Pulsar, .NET, Django, FastAPI, Pytest, Docker, kubernetes, PostgreSQL, NoSQL, Vue.js, Node.js, React/React-native, Next.JS, PyTorch, Pandas, Git, Linux/Unix, DataDog, Postman, Spring Boot, Github Actions.
 - **Back-End Development:** Scalable and Robust Back-End development expertise utilizing Chalice, Django, .NET, FastAPI, and Spring Boot.
-- **Front-End Development:** Experience with React, React-native, Next.js, Vue.js, TypeScript/Javascript for responsive frontends.
 - **Machine Learning & AI:** Practical experience designing, training, and optimizing Deep Learning models (Neural Networks, Transformers...) from scratch using PyTorch for both classifiaction and regression models.
 - **DevOps & Deployment:** Contributed to robust engineering practices including Docker/Kubernetes, CI/CD workflows within agile Linux/Unix environments.
+- **Front-End Development:** Experience with React, React-native, Next.js, Vue.js, TypeScript/Javascript for responsive frontends.
 - **Languages:** English (Fluent), French (Fluent), Arabic (Fluent).
 ---
 
