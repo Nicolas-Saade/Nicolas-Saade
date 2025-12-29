@@ -8,9 +8,12 @@ I am a software engineering student at McGill, passionate about programming, wit
 
 ## Technical Skills
 
-- **Programming Languages:** Python, C, Java, C#, bash, HTML, CSS, SQL, JavaScript, TypeScript, FXML, VHDL/FPGAs, Assembly.
-- **Frameworks & Tools:** .NET, Django, FASTAPI, Unittest, Pytest, Docker, PostgreSQL, Vue.js, Postman, Cucumber, Scene Builder, PyTorch, Tensorflow, Git, JUnit, Gradle, JavaFX, JUnit, JWT, Linux. pgAdmin, ARM CPUs/logisim.
-- **Other Skills:** Authentication/Authorization, BDD, TDD, Containerization, Migration.
+- **Programming Languages:** Python, Java, Javascript/Typescript, C#, HTML/CSS, C, bash, SQL, Terraform, Assembly, OCaml.
+- **Frameworks & Tools:** AWS, Apache Pulsar, .NET, Django, FastAPI, Pytest, Docker, kubernetes, PostgreSQL, NoSQL, Vue.js, Node.js, React/React-native, Next.JS, PyTorch, Pandas, Git, Linux/Unix, DataDog, Postman, Spring Boot, Github Actions.
+- **Back-End Development:** Scalable and Robust Back-End development expertise utilizing Chalice, Django, .NET, FastAPI, and Spring Boot.
+- **Front-End Development:** Experience with React, React-native, Next.js, Vue.js, TypeScript/Javascript for responsive frontends.
+- **Machine Learning & AI:** Practical experience designing, training, and optimizing Deep Learning models (Neural Networks, Transformers...) from scratch using PyTorch for both classifiaction and regression models.
+- **DevOps & Deployment:** Contributed to robust engineering practices including Docker/Kubernetes, CI/CD workflows within agile Linux/Unix environments.
 - **Languages:** English (Fluent), French (Fluent), Arabic (Fluent).
 ---
 
@@ -22,7 +25,7 @@ I am a software engineering student at McGill, passionate about programming, wit
 
 ### [**CIFAR-10 ML Classification**](https://github.com/Nicolas-Saade/CIFAR-10-Challenge/tree/main)
 *Training and building ViT + CNN from scratch & Optimizing Inductive Biases for High-Performance Image Classification*
-Implemented custom Deep Residual CNN and ViT architectures from scratch using PyTorch. Achieved 97.8% accuracy by ensembling fine-tuned ConvNeXt, ResNet-v2, and Swin ViT models.
+- Implemented custom Deep Residual CNN and ViT architectures from scratch using PyTorch. Achieved 97.8% accuracy by ensembling fine-tuned ConvNeXt, ResNet-v2, and Swin ViT models.
 
 ### [**GameShop**](https://github.com/Nicolas-Saade/Game-Shop)
 *A Full-Stack application to manage an online store, browse, and buy products*
