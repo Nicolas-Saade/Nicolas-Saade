@@ -20,13 +20,11 @@ I am a software engineering student at McGill, passionate about programming, wit
 *Keep your Hard-Earned TikTok Favorites and Preferences Safe*
 - The app was built using: Python, Django, React-native, JavaScript and TypeScript. The Website is hosted using AWS services (S3, EC2), check it out [**link-my-socials.com**](https://link-my-socials.com/) .
 
+### [**CIFAR-10 ML Classification**]
+
 ### [**GameShop**](https://github.com/Nicolas-Saade/Game-Shop)
 *A Full-Stack application to manage an online store, browse, and buy products*
 - The app was built using, the Model-View-Controller architecture, using Spring Boot, Vue.js, JavaScript, and PostgreSQL. The web-app is containerized through docker, to be hosted online using Render web services (please click [**here**](https://github.com/Nicolas-Saade/Game-Shop) for instructions on how to try out the website!) .
-
-### [**Wareflow**](https://github.com/Nicolas-Saade/Wareflow)
-*A Full-Stack application for warehouse inventory, staff and client management.*  
-- A GUI JavaFx app following Model-View-Controller architecture based on Umple UML diagrams. The app was built with Java and FXML following behavior-driven development by using Gherkin step definitions (Cucumber) and JUnit.
 
 ### [**Chrome Extension**](https://github.com/Nicolas-Saade/Colab_Chrome_Extension)
 *A chrome extension for monitoring and connecting users to a TPU runtime on google colab.*  
