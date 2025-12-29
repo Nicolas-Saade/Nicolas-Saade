@@ -1,4 +1,4 @@
-![Alt text](github-header.png)
+
 
 ## About Me
 
