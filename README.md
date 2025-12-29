@@ -20,7 +20,9 @@ I am a software engineering student at McGill, passionate about programming, wit
 *Keep your Hard-Earned TikTok Favorites and Preferences Safe*
 - The app was built using: Python, Django, React-native, JavaScript and TypeScript. The Website is hosted using AWS services (S3, EC2), check it out [**link-my-socials.com**](https://link-my-socials.com/) .
 
-### [**CIFAR-10 ML Classification**]
+### [**CIFAR-10 ML Classification**](https://github.com/Nicolas-Saade/CIFAR-10-Challenge/tree/main)
+*Training and building ViT + CNN from scratch & Optimizing Inductive Biases for High-Performance Image Classification*
+Implemented custom Deep Residual CNN and ViT architectures from scratch using PyTorch. Achieved 97.8% accuracy by ensembling fine-tuned ConvNeXt, ResNet-v2, and Swin ViT models.
 
 ### [**GameShop**](https://github.com/Nicolas-Saade/Game-Shop)
 *A Full-Stack application to manage an online store, browse, and buy products*
