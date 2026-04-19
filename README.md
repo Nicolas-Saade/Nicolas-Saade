@@ -2,7 +2,17 @@
 
 ## About Me
 
-I am a software engineering student at McGill, passionate about programming, with a special interest problem solving and getting exposed to new information and topics. I have a strong foundation in full-stack development, working with agile and fast-paced environments, and initiating new projects. Those qualities and experiences have driven my curious jounrey through the world of software development, writing code in collaboration with others to build software that matters.
+I am a software engineering student at McGill, passionate about programming, computer networking, Application Infrastructure, AI and Agentic applications, as well as machine learning and Mathematics research, and their applications in the software field.
+
+I have a strong foundation in full-stack development, my strengths and previous experiences make especially proficient in:
+
+- AWS, Terraform, chalice, and Networking (managing on prem servers and cloud infrastructure)
+- Developing AI/Agentic applications: Langchain, Langgraph, AWS Bedrock Agentcore, asynchronous communication in multi-agent setups
+- Deploying production grade observability: wether for agentic applications, coding agents observability and cost attribution, or more classical big scale systems.
+
+All of those experiences having been honed in multiple professional positions.
+
+My interest in software engineering also shows in my initiation of new projects I am curious about.
 
 ---
 
