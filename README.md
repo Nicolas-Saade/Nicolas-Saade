@@ -2,13 +2,14 @@
 
 ## About Me
 
-I am a software engineering student at McGill, passionate about programming, computer networking, Application Infrastructure, AI and Agentic applications, as well as machine learning and Mathematics research, and their applications in the software field.
+I am a software engineering student at McGill, passionate about programming, more specifically: infrastructure, AI/agentic systems (LangChaing, LangGraph...), and the intersection of the two. My work sits at the boundary of cloud infrastructure, observability engineering, and multi-agent AI systems — areas where I've shipped production systems, not just prototypes. As well as machine learning and Mathematics research, and their applications in the software field.
 
-I have a strong foundation in full-stack development, my strengths and previous experiences make especially proficient in:
+My core strengths:
+ 
+- **Cloud infrastructure & reliability:** AWS (ECS, ALB, EC2, Lambda, EKS, DynamoDB, Aurora, Kinesis, SQS, ECR, Athena, S3, Bedrock, SageMaker, AgentCore, VPC), Terraform IaC, containerization, computer networking (working with private networks, firewalls, TGW, IGW...), and designing scale
+- **AI/Agentic systems:** LangGraph orchestration, AWS Bedrock AgentCore, asyncio parallel dispatch, SSE streaming, and multi-agent design patterns
+- **Observability:** End-to-end distributed tracing for both classical and AI workloads — OpenTelemetry, Traceloop, DynaTrace, CloudWatch EMF, DataDog
 
-- AWS, Terraform, chalice, and Networking (managing on prem servers and cloud infrastructure)
-- Developing AI/Agentic applications: Langchain, Langgraph, AWS Bedrock Agentcore, asynchronous communication in multi-agent setups
-- Deploying production grade observability: wether for agentic applications, coding agents observability and cost attribution, or more classical big scale systems.
 
 All of those experiences having been honed in multiple professional positions.
 
@@ -18,13 +19,17 @@ My interest in software engineering also shows in my initiation of new projects 
 
 ## Technical Skills
 
-- **Programming Languages:** Python, Java, Javascript/Typescript, C#, HTML/CSS, C, bash, SQL, Terraform, Assembly, OCaml.
-- **Frameworks & Tools:** AWS, Apache Pulsar, .NET, Django, FastAPI, Pytest, Docker, kubernetes, PostgreSQL, NoSQL, Vue.js, Node.js, React/React-native, Next.JS, PyTorch, Pandas, Git, Linux/Unix, DataDog, Postman, Spring Boot, Github Actions.
-- **Back-End Development:** Scalable and Robust Back-End development expertise utilizing Chalice, Django, .NET, FastAPI, and Spring Boot.
-- **Machine Learning & AI:** Practical experience designing, training, and optimizing Deep Learning models (Neural Networks, Transformers...) from scratch using PyTorch for both classifiaction and regression models.
-- **DevOps & Deployment:** Contributed to robust engineering practices including Docker/Kubernetes, CI/CD workflows within agile Linux/Unix environments.
-- **Front-End Development:** Experience with React, React-native, Next.js, Vue.js, TypeScript/Javascript for responsive frontends.
-- **Languages:** English (Fluent), French (Fluent), Arabic (Fluent).
+- **Programming Languages:** Python, Terraform, C, bash, Java, Javascript/Typescript, C#, HTML/CSS, SQL, Assembly, OCaml.
+
+**Infrastructure & Cloud:** AWS, Terraform, Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Apache Pulsar, Linux/Unix
+ 
+**AI & Agentic Systems:** LangChain, LangGraph, AWS Bedrock AgentCore, OpenTelemetry/OpenLLMetry, Traceloop, LiteLLM, PyTorch, TensorFlow, pandas
+ 
+**Observability:** DynaTrace, CloudWatch EMF, OpenTelemetry, DataDog
+ 
+**Back-End:** FastAPI, Django, Spring Boot, .NET, Chalice, Node.js, PostgreSQL, NoSQL
+ 
+**Front-End:** React, React Native, Next.js, Vue.js, TypeScript
 ---
 
 ## Projects
