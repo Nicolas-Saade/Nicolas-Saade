@@ -9,6 +9,7 @@ My core strengths:
 - **Cloud infrastructure & reliability:** AWS (ECS, ALB, EC2, Lambda, EKS, DynamoDB, Aurora, Kinesis, SQS, ECR, Athena, S3, Bedrock, SageMaker, AgentCore, VPC), Terraform IaC, containerization, computer networking (working with private networks, firewalls, TGW, IGW...), and designing scale
 - **AI/Agentic systems:** LangGraph orchestration, AWS Bedrock AgentCore, asyncio parallel dispatch, SSE streaming, and multi-agent design patterns
 - **Observability:** End-to-end distributed tracing for both classical and AI workloads — OpenTelemetry, Traceloop, DynaTrace, CloudWatch EMF, DataDog
+- **Research and Depth:** On the use of LLMs to reason through complicated reasoning problems, with classical neural approaches or neurosymbolic ones.
 
 
 All of those experiences having been honed in multiple professional positions.
